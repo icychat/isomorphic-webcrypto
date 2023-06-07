@@ -72,7 +72,6 @@
   "optionalDependencies": {
     "@unimodules/core": "*",
     "@unimodules/react-native-adapter": "*",
-    "expo-random": "*",
     "react-native-securerandom": "^1.0.1"
   }
 }
