@@ -13,7 +13,7 @@ if (!generateSecureRandom) {
   console.error(`
     isomorphic-webcrypto cannot ensure the security of some operations!
     Install and configure react-native-securerandom or expo-random
-    If managed by Expo, run 'expo install expo-random'
+    If managed by Expo, run 'expo install expo-crypto'
   `);
   
   throw new Error('fatal: unable to generate secure random function.')
