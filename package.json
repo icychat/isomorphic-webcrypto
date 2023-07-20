@@ -69,9 +69,5 @@
     "webcrypto-liner": "^1.4.2",
     "webcrypto-test-suite": "^0.4.0",
     "webpack": "^5.86.0"
-  },
-  "optionalDependencies": {
-    "@unimodules/core": "*",
-    "@unimodules/react-native-adapter": "*"
-  }
+  } 
 }
